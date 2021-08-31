@@ -1,0 +1,7 @@
+"# keylanunzia">>README. md
+git init
+git and README .md
+git commit -m "primeiro commit"
+git branch  -M principal
+git remoto adicionar origem  https://github.com/keylanunzia/keylanunzia.git
+git push- sua origem principal 
